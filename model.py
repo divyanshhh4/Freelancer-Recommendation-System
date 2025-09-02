@@ -115,4 +115,5 @@ class FreelancerRecommender:
             ]]
         except Exception as e:
             print(f"Error in recommend(): {str(e)}")
-            return pd.DataFrame()
+            return pd.DataFrame(), self.freelancers_df
+
