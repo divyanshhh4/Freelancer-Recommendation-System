@@ -1,0 +1,201 @@
+Freelancer_ID,Skills,Completed_Projects,Hourly_Rate,Experience,Availability
+F1,"Tableau, Figma, Bootstrap, AWS, SQL","Website Development, Portfolio Website",29,"UI/UX Designer at VWX, Graphic Designer at GHI",1 Week
+F2,"Java, Cloud Computing",SEO Optimization,76,"Machine Learning Engineer at STU, Graphic Designer at GHI",1 Week
+F3,"Blockchain, Cybersecurity, DevOps, Spark, SQL","Branding Strategy, Blockchain Implementation, Website Development",33,Cloud Engineer at MNO,1 Month
+F4,"SEO, React, AWS, UI/UX Design, Angular","Blockchain Implementation, Website Development, SEO Optimization",39,"Machine Learning Engineer at STU, Data Analyst at ABC, Software Engineer at XYZ",3 Months
+F5,"Flask, PyTorch","Portfolio Website, Logo Design",85,"DevOps Engineer at PQR, Machine Learning Engineer at STU",1 Month
+F6,"Docker, Django, Cybersecurity, Flask, C++",Website Development,44,Web Developer at DEF,2 Weeks
+F7,"Tailwind, Django, Python",Cybersecurity Audit,49,"DevOps Engineer at PQR, Data Analyst at ABC",3 Months
+F8,"Spark, Tailwind, PHP, Adobe Illustrator, Hadoop","Portfolio Website, Mobile App Development, Dashboard Creation",22,"Graphic Designer at GHI, Web Developer at DEF, Data Analyst at ABC",3 Months
+F9,"Angular, Swift, Docker, Node.js, TensorFlow","Website Development, Blockchain Implementation, API Development",68,Graphic Designer at GHI,2 Months
+F10,"React, Big Data, Machine Learning, Tailwind","Machine Learning Model Training, Portfolio Website, Cybersecurity Audit",44,Software Engineer at XYZ,2 Weeks
+F11,"Hadoop, Adobe Photoshop, PyTorch","Website Development, Portfolio Website, Branding Strategy",84,"DevOps Engineer at PQR, Graphic Designer at GHI, Software Engineer at XYZ",1 Week
+F12,"Bootstrap, Adobe Illustrator, Angular, Graphic Design, UI/UX Design",Cybersecurity Audit,48,Web Developer at DEF,1 Week
+F13,"Swift, C++, Kubernetes, Kotlin","Portfolio Website, Machine Learning Model Training",53,"Cloud Engineer at MNO, Full Stack Developer at YZA, Data Analyst at ABC",1 Week
+F14,"Flask, Angular",Dashboard Creation,62,SEO Specialist at JKL,1 Week
+F15,"Blockchain, Web Development","E-commerce Platform, Social Media Campaign, Machine Learning Model Training",66,"Cloud Engineer at MNO, Machine Learning Engineer at STU",3 Months
+F16,"Hadoop, Adobe Photoshop, Data Science, Graphic Design",Cloud Migration Project,90,"UI/UX Designer at VWX, Web Developer at DEF, Data Analyst at ABC",2 Weeks
+F17,"Machine Learning, Big Data, Graphic Design, Power BI, Cloud Computing","E-commerce Platform, Dashboard Creation",46,DevOps Engineer at PQR,1 Week
+F18,"SEO, Figma, Node.js, Hadoop",Blockchain Implementation,30,UI/UX Designer at VWX,3 Months
+F19,"Tailwind, Power BI","Cloud Migration Project, API Development, Mobile App Development",81,"Machine Learning Engineer at STU, UI/UX Designer at VWX, Web Developer at DEF",2 Weeks
+F20,"Blockchain, Machine Learning, Web Development, Ruby",Branding Strategy,72,Machine Learning Engineer at STU,3 Months
+F21,"Adobe Illustrator, Cybersecurity, Blockchain","Social Media Campaign, Data Analysis Project, Mobile App Development",84,"Machine Learning Engineer at STU, Web Developer at DEF, DevOps Engineer at PQR",2 Weeks
+F22,"TensorFlow, SQL","SEO Optimization, Cybersecurity Audit",65,"Cloud Engineer at MNO, Machine Learning Engineer at STU",2 Weeks
+F23,"Spark, Blockchain, React, DevOps","Data Analysis Project, Machine Learning Model Training",89,Data Analyst at ABC,2 Weeks
+F24,"Kotlin, Adobe Photoshop, Web Development, NoSQL, Ruby","Logo Design, Mobile App Development",57,"UI/UX Designer at VWX, Graphic Designer at GHI, Full Stack Developer at YZA",1 Week
+F25,"Branding, Web Development, SEO, Data Science, DevOps","Website Development, E-commerce Platform",81,Machine Learning Engineer at STU,2 Months
+F26,"React, Big Data, C++",Cybersecurity Audit,31,UI/UX Designer at VWX,3 Weeks
+F27,"Figma, Node.js","Social Media Campaign, Website Development, Mobile App Development",63,Data Analyst at ABC,3 Weeks
+F28,"Flask, Cybersecurity","Dashboard Creation, API Development, Cybersecurity Audit",99,"UI/UX Designer at VWX, Cloud Engineer at MNO",2 Weeks
+F29,"Cybersecurity, Swift, AWS, Docker, SEO","Blockchain Implementation, Website Development, Cybersecurity Audit",51,"SEO Specialist at JKL, Machine Learning Engineer at STU",3 Weeks
+F30,"Hadoop, Docker","Cybersecurity Audit, Social Media Campaign, Data Analysis Project",100,UI/UX Designer at VWX,1 Month
+F31,"Bootstrap, TensorFlow, Blockchain, Adobe Photoshop, Ruby","Cybersecurity Audit, API Development",40,Cloud Engineer at MNO,2 Months
+F32,"PyTorch, Kotlin",Blockchain Implementation,52,"SEO Specialist at JKL, Data Analyst at ABC",2 Weeks
+F33,"Power BI, Kubernetes","Blockchain Implementation, Logo Design, Cybersecurity Audit",99,"Software Engineer at XYZ, Machine Learning Engineer at STU",3 Months
+F34,"TensorFlow, Blockchain, Big Data, AWS, Django","E-commerce Platform, SEO Optimization",62,Full Stack Developer at YZA,2 Weeks
+F35,"Graphic Design, C++",Cybersecurity Audit,41,"Machine Learning Engineer at STU, Graphic Designer at GHI, Web Developer at DEF",1 Week
+F36,"UI/UX Design, Java","Logo Design, SEO Optimization, Dashboard Creation",45,"Software Engineer at XYZ, Full Stack Developer at YZA",2 Months
+F37,"Flask, PyTorch, Node.js",E-commerce Platform,73,"Full Stack Developer at YZA, UI/UX Designer at VWX",3 Weeks
+F38,"SEO, C++, Branding, Cloud Computing","Branding Strategy, Cybersecurity Audit, Machine Learning Model Training",62,"Graphic Designer at GHI, Software Engineer at XYZ, Web Developer at DEF",3 Months
+F39,"Figma, Kotlin",Portfolio Website,89,"Cloud Engineer at MNO, Web Developer at DEF, Software Engineer at XYZ",3 Weeks
+F40,"Angular, Hadoop, Azure","Portfolio Website, SEO Optimization",38,"Web Developer at DEF, Graphic Designer at GHI, DevOps Engineer at PQR",3 Weeks
+F41,"Web Development, Data Science, C++, React","E-commerce Platform, Logo Design, Branding Strategy",97,"SEO Specialist at JKL, Software Engineer at XYZ",2 Months
+F42,"AWS, Branding","E-commerce Platform, Social Media Campaign",88,"UI/UX Designer at VWX, Cloud Engineer at MNO",2 Weeks
+F43,"Azure, DevOps, Angular, Python, SQL","Cloud Migration Project, Website Development",95,Web Developer at DEF,3 Weeks
+F44,"SQL, Tableau, Graphic Design",Mobile App Development,20,"Software Engineer at XYZ, Full Stack Developer at YZA, SEO Specialist at JKL",1 Month
+F45,"Spark, AWS, NoSQL, Swift","Machine Learning Model Training, Website Development",91,"Data Analyst at ABC, Cloud Engineer at MNO",3 Months
+F46,"Web Development, Django","E-commerce Platform, Social Media Campaign",31,"Web Developer at DEF, Cloud Engineer at MNO, Graphic Designer at GHI",2 Months
+F47,"Power BI, Swift, C++, NoSQL",SEO Optimization,74,"SEO Specialist at JKL, Graphic Designer at GHI",2 Weeks
+F48,"Node.js, Adobe Photoshop","Mobile App Development, Website Development",39,Full Stack Developer at YZA,2 Weeks
+F49,"Figma, Data Science, UI/UX Design, Adobe Photoshop","Dashboard Creation, Mobile App Development",26,"Machine Learning Engineer at STU, Graphic Designer at GHI, Software Engineer at XYZ",2 Months
+F50,"Tailwind, Docker","Machine Learning Model Training, E-commerce Platform",49,"Cloud Engineer at MNO, DevOps Engineer at PQR",2 Weeks
+F51,"Tableau, Spark, Blockchain, React, Cloud Computing",Cloud Migration Project,46,"SEO Specialist at JKL, Data Analyst at ABC, Software Engineer at XYZ",3 Weeks
+F52,"Django, Branding, Ruby",Website Development,92,"SEO Specialist at JKL, Software Engineer at XYZ, Web Developer at DEF",1 Month
+F53,"Graphic Design, Tailwind, PyTorch","Cloud Migration Project, Blockchain Implementation, API Development",23,"Full Stack Developer at YZA, Machine Learning Engineer at STU",1 Month
+F54,"Azure, Adobe Photoshop, Tableau, Data Science, Bootstrap",Social Media Campaign,47,"Data Analyst at ABC, UI/UX Designer at VWX, Full Stack Developer at YZA",2 Months
+F55,"NoSQL, Adobe Illustrator","API Development, Data Analysis Project",29,"SEO Specialist at JKL, Graphic Designer at GHI, Software Engineer at XYZ",1 Month
+F56,"Hadoop, Tailwind, Cloud Computing, Angular","Machine Learning Model Training, SEO Optimization",100,SEO Specialist at JKL,3 Months
+F57,"Vue.js, Adobe Photoshop, Java, Graphic Design",Cloud Migration Project,59,"Graphic Designer at GHI, UI/UX Designer at VWX",3 Months
+F58,"Kubernetes, Java, Docker, AWS, Tableau","Portfolio Website, Dashboard Creation, Mobile App Development",73,"UI/UX Designer at VWX, DevOps Engineer at PQR, Machine Learning Engineer at STU",1 Week
+F59,"Branding, DevOps, PHP","E-commerce Platform, Cybersecurity Audit, Branding Strategy",54,"Cloud Engineer at MNO, SEO Specialist at JKL, Machine Learning Engineer at STU",2 Months
+F60,"UI/UX Design, SQL, Tableau, Cloud Computing, C++","API Development, Branding Strategy, Social Media Campaign",48,DevOps Engineer at PQR,2 Weeks
+F61,"SEO, Adobe Illustrator, C++, Graphic Design","Social Media Campaign, Dashboard Creation, Branding Strategy",45,"Data Analyst at ABC, UI/UX Designer at VWX",1 Week
+F62,"Node.js, Hadoop, Django",Data Analysis Project,81,"Cloud Engineer at MNO, Machine Learning Engineer at STU, Web Developer at DEF",1 Month
+F63,"Tailwind, Cloud Computing","Mobile App Development, Blockchain Implementation",53,"Web Developer at DEF, Full Stack Developer at YZA, Graphic Designer at GHI",3 Months
+F64,"Power BI, DevOps",E-commerce Platform,27,Machine Learning Engineer at STU,1 Month
+F65,"Big Data, Java, Docker, DevOps, Node.js","Data Analysis Project, Cybersecurity Audit",54,Web Developer at DEF,1 Week
+F66,"Tableau, Big Data, Bootstrap, PHP, Cybersecurity","SEO Optimization, Cybersecurity Audit",94,"UI/UX Designer at VWX, Full Stack Developer at YZA, SEO Specialist at JKL",3 Weeks
+F67,"Java, Web Development, Cybersecurity, Node.js, C++","Branding Strategy, Portfolio Website, API Development",61,"Graphic Designer at GHI, Web Developer at DEF, SEO Specialist at JKL",2 Months
+F68,"Bootstrap, Power BI, Graphic Design, PyTorch, Data Science","Portfolio Website, Cybersecurity Audit",37,"DevOps Engineer at PQR, Data Analyst at ABC",2 Months
+F69,"Cloud Computing, Graphic Design","Portfolio Website, Logo Design",67,Full Stack Developer at YZA,1 Month
+F70,"Hadoop, Blockchain","Logo Design, Cybersecurity Audit",24,"UI/UX Designer at VWX, Web Developer at DEF",1 Week
+F71,"C++, Django",E-commerce Platform,80,Graphic Designer at GHI,3 Months
+F72,"Vue.js, Django, Web Development, Azure, Adobe Illustrator","Machine Learning Model Training, Mobile App Development",49,"Full Stack Developer at YZA, UI/UX Designer at VWX, Software Engineer at XYZ",1 Week
+F73,"Power BI, Flask, Spark, DevOps","Dashboard Creation, E-commerce Platform",37,Web Developer at DEF,1 Week
+F74,"Cybersecurity, Tableau, Angular, Swift",Logo Design,23,"Web Developer at DEF, Graphic Designer at GHI",1 Week
+F75,"C++, DevOps, TensorFlow, Power BI, Bootstrap",Social Media Campaign,81,"DevOps Engineer at PQR, SEO Specialist at JKL, Software Engineer at XYZ",2 Months
+F76,"Java, Kubernetes, Spark, Vue.js, Blockchain","Portfolio Website, SEO Optimization",88,SEO Specialist at JKL,1 Week
+F77,"Tableau, Cloud Computing, SEO, Hadoop, AWS","Dashboard Creation, Cloud Migration Project, Data Analysis Project",32,Web Developer at DEF,3 Months
+F78,"Angular, Big Data, Web Development, Data Science, Ruby",Machine Learning Model Training,41,"Full Stack Developer at YZA, UI/UX Designer at VWX",3 Weeks
+F79,"PyTorch, React, Tailwind, Python, Cloud Computing","Social Media Campaign, Portfolio Website, Blockchain Implementation",71,"SEO Specialist at JKL, Machine Learning Engineer at STU, Full Stack Developer at YZA",1 Month
+F80,"Cloud Computing, AWS, Web Development, Graphic Design, Tailwind",Dashboard Creation,59,"UI/UX Designer at VWX, Data Analyst at ABC, DevOps Engineer at PQR",2 Weeks
+F81,"NoSQL, SEO, Docker, Tableau, Big Data",Portfolio Website,27,"Cloud Engineer at MNO, Full Stack Developer at YZA",3 Weeks
+F82,"Kubernetes, Cybersecurity","API Development, Blockchain Implementation, Logo Design",58,"Web Developer at DEF, DevOps Engineer at PQR, Graphic Designer at GHI",1 Month
+F83,"Kotlin, Vue.js, NoSQL, Adobe Photoshop","Portfolio Website, Mobile App Development, Blockchain Implementation",87,DevOps Engineer at PQR,3 Months
+F84,"Swift, Ruby, Spark, SEO, Python",Website Development,96,"Web Developer at DEF, Cloud Engineer at MNO, SEO Specialist at JKL",1 Week
+F85,"SQL, Node.js, Django",SEO Optimization,26,UI/UX Designer at VWX,2 Weeks
+F86,"React, Kubernetes, Spark, Machine Learning, Adobe Photoshop",Blockchain Implementation,84,"Machine Learning Engineer at STU, UI/UX Designer at VWX, Cloud Engineer at MNO",2 Weeks
+F87,"Data Science, Cloud Computing, UI/UX Design, React",Machine Learning Model Training,43,"Machine Learning Engineer at STU, Full Stack Developer at YZA, UI/UX Designer at VWX",3 Weeks
+F88,"UI/UX Design, Adobe Illustrator","Cybersecurity Audit, Mobile App Development, API Development",38,"UI/UX Designer at VWX, Web Developer at DEF",3 Weeks
+F89,"Azure, Angular, Branding, TensorFlow, Python",Website Development,89,"DevOps Engineer at PQR, UI/UX Designer at VWX, Full Stack Developer at YZA",1 Month
+F90,"PyTorch, Power BI","Mobile App Development, SEO Optimization",70,DevOps Engineer at PQR,3 Months
+F91,"Figma, Java, Azure, Ruby","Cybersecurity Audit, SEO Optimization, Social Media Campaign",92,"Machine Learning Engineer at STU, Data Analyst at ABC, SEO Specialist at JKL",3 Months
+F92,"Flask, Node.js, Adobe Illustrator","Blockchain Implementation, Website Development, Dashboard Creation",24,"SEO Specialist at JKL, DevOps Engineer at PQR, Graphic Designer at GHI",2 Months
+F93,"Figma, Swift","Cloud Migration Project, Blockchain Implementation",72,"Cloud Engineer at MNO, SEO Specialist at JKL",2 Weeks
+F94,"DevOps, PHP, Swift","E-commerce Platform, Logo Design",80,SEO Specialist at JKL,1 Month
+F95,"Spark, Hadoop, Blockchain, C++, Tableau","Social Media Campaign, Dashboard Creation, Portfolio Website",96,"Machine Learning Engineer at STU, Full Stack Developer at YZA, Data Analyst at ABC",1 Week
+F96,"Tableau, Branding, Ruby, Tailwind, Cybersecurity","Blockchain Implementation, Logo Design",37,"UI/UX Designer at VWX, Web Developer at DEF, Data Analyst at ABC",1 Week
+F97,"Hadoop, Kubernetes, Cybersecurity",API Development,24,"Full Stack Developer at YZA, Graphic Designer at GHI, DevOps Engineer at PQR",2 Weeks
+F98,"Tableau, Angular, Bootstrap","Cybersecurity Audit, Portfolio Website, Dashboard Creation",76,"Web Developer at DEF, SEO Specialist at JKL, Data Analyst at ABC",3 Months
+F99,"Tailwind, DevOps, Docker, TensorFlow","Machine Learning Model Training, Dashboard Creation, Website Development",27,"Machine Learning Engineer at STU, Cloud Engineer at MNO, Web Developer at DEF",3 Weeks
+F100,"PyTorch, Adobe Illustrator",Dashboard Creation,85,Cloud Engineer at MNO,1 Week
+F101,"Django, Web Development","Branding Strategy, SEO Optimization, Machine Learning Model Training",83,"UI/UX Designer at VWX, Software Engineer at XYZ",3 Weeks
+F102,"Adobe Illustrator, Spark, Docker, SQL",Blockchain Implementation,81,"UI/UX Designer at VWX, Full Stack Developer at YZA",1 Week
+F103,"Node.js, Web Development, Hadoop","Cybersecurity Audit, API Development",37,"Machine Learning Engineer at STU, SEO Specialist at JKL",3 Weeks
+F104,"PyTorch, Python","Cybersecurity Audit, SEO Optimization, Portfolio Website",34,"UI/UX Designer at VWX, Full Stack Developer at YZA",2 Months
+F105,"Ruby, C++","API Development, Branding Strategy, Portfolio Website",44,Software Engineer at XYZ,2 Weeks
+F106,"Big Data, Java",Mobile App Development,25,Web Developer at DEF,2 Weeks
+F107,"Python, AWS, Adobe Illustrator","Dashboard Creation, Portfolio Website, Cloud Migration Project",44,"Web Developer at DEF, DevOps Engineer at PQR, Cloud Engineer at MNO",1 Week
+F108,"Hadoop, Java, DevOps, Kubernetes","Logo Design, Cybersecurity Audit, Social Media Campaign",73,UI/UX Designer at VWX,2 Months
+F109,"Docker, Cybersecurity","Dashboard Creation, Portfolio Website, Website Development",58,"SEO Specialist at JKL, Full Stack Developer at YZA, UI/UX Designer at VWX",1 Month
+F110,"Blockchain, C++, PyTorch, PHP",Logo Design,76,Graphic Designer at GHI,2 Weeks
+F111,"Adobe Illustrator, TensorFlow, Data Science, Adobe Photoshop, Angular","Logo Design, Website Development",52,UI/UX Designer at VWX,1 Month
+F112,"Java, Kubernetes",Data Analysis Project,80,"UI/UX Designer at VWX, Full Stack Developer at YZA, Software Engineer at XYZ",1 Month
+F113,"Azure, Docker, Ruby, TensorFlow, Vue.js",Cybersecurity Audit,81,"Web Developer at DEF, Software Engineer at XYZ, DevOps Engineer at PQR",3 Weeks
+F114,"Bootstrap, Adobe Illustrator, Ruby, Branding",Website Development,37,"Machine Learning Engineer at STU, Data Analyst at ABC, Graphic Designer at GHI",3 Months
+F115,"Flask, Django, Big Data","Cloud Migration Project, Dashboard Creation",61,"Graphic Designer at GHI, Web Developer at DEF, DevOps Engineer at PQR",2 Weeks
+F116,"Flask, Java, SEO, Vue.js, Big Data",Cybersecurity Audit,25,"Data Analyst at ABC, DevOps Engineer at PQR",2 Weeks
+F117,"NoSQL, TensorFlow, Bootstrap, Data Science, Angular",Cloud Migration Project,61,"Machine Learning Engineer at STU, Software Engineer at XYZ",1 Week
+F118,"Swift, Bootstrap, Branding, SQL","Cloud Migration Project, Logo Design",49,Graphic Designer at GHI,1 Week
+F119,"Python, Blockchain",SEO Optimization,58,"UI/UX Designer at VWX, Data Analyst at ABC",1 Week
+F120,"Graphic Design, Power BI, Node.js, Ruby, Big Data",Portfolio Website,47,"SEO Specialist at JKL, Machine Learning Engineer at STU, Software Engineer at XYZ",1 Month
+F121,"Django, Azure, Swift, Ruby",Cybersecurity Audit,21,Graphic Designer at GHI,3 Weeks
+F122,"Big Data, Graphic Design, Ruby","Machine Learning Model Training, Dashboard Creation",31,"Web Developer at DEF, DevOps Engineer at PQR",2 Weeks
+F123,"Vue.js, Java, NoSQL",E-commerce Platform,71,Data Analyst at ABC,3 Weeks
+F124,"Vue.js, Azure, TensorFlow, Blockchain, SEO","Blockchain Implementation, E-commerce Platform, Mobile App Development",80,Web Developer at DEF,3 Weeks
+F125,"Bootstrap, Cloud Computing, C++","Blockchain Implementation, Machine Learning Model Training, Cybersecurity Audit",58,"Cloud Engineer at MNO, Software Engineer at XYZ, UI/UX Designer at VWX",3 Weeks
+F126,"Branding, Kotlin, SQL, Java, Machine Learning","Portfolio Website, Social Media Campaign",41,"Graphic Designer at GHI, UI/UX Designer at VWX, Machine Learning Engineer at STU",1 Week
+F127,"Bootstrap, React, Angular, Tableau, Adobe Photoshop","Dashboard Creation, Logo Design",97,"Web Developer at DEF, Data Analyst at ABC, UI/UX Designer at VWX",3 Months
+F128,"C++, Vue.js, SEO, Blockchain, Python","Cybersecurity Audit, Branding Strategy, SEO Optimization",47,"DevOps Engineer at PQR, Software Engineer at XYZ",3 Weeks
+F129,"AWS, Hadoop, Bootstrap, Azure, Docker","Portfolio Website, Cybersecurity Audit",43,"UI/UX Designer at VWX, SEO Specialist at JKL, Web Developer at DEF",2 Weeks
+F130,"PyTorch, Cybersecurity, Adobe Illustrator, SQL","Cybersecurity Audit, Machine Learning Model Training, Cloud Migration Project",34,DevOps Engineer at PQR,2 Months
+F131,"Figma, Vue.js","Branding Strategy, Data Analysis Project",84,"DevOps Engineer at PQR, Data Analyst at ABC, UI/UX Designer at VWX",2 Weeks
+F132,"Python, Adobe Photoshop, Flask, PHP, Blockchain","Blockchain Implementation, Dashboard Creation, Logo Design",41,"Data Analyst at ABC, Graphic Designer at GHI",1 Month
+F133,"AWS, Python, SQL","Machine Learning Model Training, Cybersecurity Audit",91,DevOps Engineer at PQR,1 Week
+F134,"Azure, Adobe Illustrator, Machine Learning","E-commerce Platform, Logo Design, Dashboard Creation",94,"UI/UX Designer at VWX, Web Developer at DEF, Full Stack Developer at YZA",3 Months
+F135,"Tableau, Power BI",Social Media Campaign,55,"Cloud Engineer at MNO, Web Developer at DEF",1 Month
+F136,"UI/UX Design, Hadoop, Django, Azure, Power BI",Mobile App Development,91,"Graphic Designer at GHI, UI/UX Designer at VWX, Cloud Engineer at MNO",1 Week
+F137,"Graphic Design, Data Science, Big Data, Cloud Computing, Tailwind",Portfolio Website,24,Cloud Engineer at MNO,3 Weeks
+F138,"Azure, Hadoop, Cloud Computing, Angular","Cybersecurity Audit, Social Media Campaign",69,SEO Specialist at JKL,1 Week
+F139,"Kotlin, Django","Data Analysis Project, Blockchain Implementation, Logo Design",60,Machine Learning Engineer at STU,1 Week
+F140,"Power BI, Cloud Computing, Kubernetes","Mobile App Development, SEO Optimization",21,"Web Developer at DEF, Software Engineer at XYZ",2 Weeks
+F141,"C++, Django, Python, Adobe Illustrator, Web Development","SEO Optimization, API Development",86,"Software Engineer at XYZ, Data Analyst at ABC",2 Months
+F142,"Java, Cloud Computing, Flask, Django, Big Data","Cloud Migration Project, Machine Learning Model Training, Blockchain Implementation",62,Machine Learning Engineer at STU,1 Week
+F143,"Branding, UI/UX Design, Big Data, DevOps",SEO Optimization,49,"Software Engineer at XYZ, Data Analyst at ABC, UI/UX Designer at VWX",3 Months
+F144,"DevOps, Flask, Tailwind","Social Media Campaign, Mobile App Development, Cloud Migration Project",20,Graphic Designer at GHI,3 Months
+F145,"Graphic Design, Swift, Azure, TensorFlow, NoSQL","Logo Design, Website Development, Cybersecurity Audit",28,Full Stack Developer at YZA,3 Weeks
+F146,"Blockchain, Cloud Computing, Branding","Social Media Campaign, Data Analysis Project, Website Development",40,"SEO Specialist at JKL, Machine Learning Engineer at STU, Software Engineer at XYZ",3 Weeks
+F147,"Machine Learning, UI/UX Design","Portfolio Website, SEO Optimization",54,"Cloud Engineer at MNO, Software Engineer at XYZ, Graphic Designer at GHI",2 Weeks
+F148,"TensorFlow, NoSQL, Swift, AWS",Blockchain Implementation,93,"Full Stack Developer at YZA, Web Developer at DEF, Data Analyst at ABC",2 Months
+F149,"Cybersecurity, Adobe Photoshop","API Development, Portfolio Website",50,"Data Analyst at ABC, Machine Learning Engineer at STU, SEO Specialist at JKL",1 Week
+F150,"C++, SQL, Kotlin","E-commerce Platform, Logo Design",56,SEO Specialist at JKL,3 Weeks
+F151,"Vue.js, Power BI, Python, Machine Learning, Azure","E-commerce Platform, Blockchain Implementation, Social Media Campaign",53,"Full Stack Developer at YZA, Graphic Designer at GHI",2 Months
+F152,"Swift, C++, Data Science, TensorFlow, Branding","Website Development, Portfolio Website",70,SEO Specialist at JKL,1 Week
+F153,"Big Data, Java, Power BI, Python","Branding Strategy, Logo Design",40,"Cloud Engineer at MNO, Graphic Designer at GHI",3 Months
+F154,"Tailwind, Web Development","Machine Learning Model Training, Branding Strategy",61,UI/UX Designer at VWX,3 Weeks
+F155,"Java, Tableau, Hadoop, TensorFlow",SEO Optimization,63,"UI/UX Designer at VWX, Web Developer at DEF, Machine Learning Engineer at STU",3 Weeks
+F156,"PHP, Docker, Kotlin","Logo Design, E-commerce Platform",98,"SEO Specialist at JKL, Web Developer at DEF, Cloud Engineer at MNO",2 Months
+F157,"SEO, Node.js",Data Analysis Project,23,Full Stack Developer at YZA,2 Weeks
+F158,"Graphic Design, Machine Learning, Azure, Adobe Photoshop","API Development, Cloud Migration Project, Logo Design",80,"Full Stack Developer at YZA, Software Engineer at XYZ",2 Months
+F159,"Cloud Computing, Tailwind, Machine Learning","Cybersecurity Audit, Social Media Campaign",62,"Graphic Designer at GHI, UI/UX Designer at VWX",1 Month
+F160,"Node.js, Flask, Docker","Machine Learning Model Training, Branding Strategy, Dashboard Creation",52,Graphic Designer at GHI,2 Weeks
+F161,"Kotlin, Tableau, SQL",E-commerce Platform,33,"Graphic Designer at GHI, SEO Specialist at JKL, Cloud Engineer at MNO",1 Month
+F162,"PyTorch, SQL, C++, Tailwind, Swift","Branding Strategy, API Development",58,Machine Learning Engineer at STU,1 Week
+F163,"Kotlin, Kubernetes, Vue.js, PHP","Cloud Migration Project, Mobile App Development, Branding Strategy",87,Web Developer at DEF,1 Month
+F164,"Flask, Branding, Angular, Ruby, Big Data",Machine Learning Model Training,30,"Data Analyst at ABC, SEO Specialist at JKL, Web Developer at DEF",2 Weeks
+F165,"Ruby, Kotlin, Java, Spark","Social Media Campaign, Logo Design",75,"SEO Specialist at JKL, Machine Learning Engineer at STU, UI/UX Designer at VWX",2 Months
+F166,"Ruby, Bootstrap, Angular, Kotlin, Python","Website Development, Dashboard Creation",94,"Cloud Engineer at MNO, Full Stack Developer at YZA, Machine Learning Engineer at STU",1 Month
+F167,"DevOps, Tableau, Adobe Illustrator, Swift, Adobe Photoshop",Portfolio Website,51,"UI/UX Designer at VWX, Data Analyst at ABC",1 Month
+F168,"Tableau, Figma, PHP, PyTorch","Social Media Campaign, Website Development, E-commerce Platform",32,"Cloud Engineer at MNO, Graphic Designer at GHI",3 Weeks
+F169,"Big Data, Tableau, Java","Portfolio Website, Dashboard Creation",77,Cloud Engineer at MNO,1 Week
+F170,"C++, Ruby","Machine Learning Model Training, Cybersecurity Audit",70,"Web Developer at DEF, UI/UX Designer at VWX, Machine Learning Engineer at STU",3 Months
+F171,"TensorFlow, AWS, Angular, Vue.js","Portfolio Website, Logo Design",63,"Cloud Engineer at MNO, UI/UX Designer at VWX",3 Months
+F172,"DevOps, Python","Website Development, Machine Learning Model Training",96,"DevOps Engineer at PQR, Web Developer at DEF",3 Months
+F173,"Blockchain, Tailwind","Cybersecurity Audit, Data Analysis Project",27,"Data Analyst at ABC, Cloud Engineer at MNO",2 Weeks
+F174,"Machine Learning, C++, Kubernetes, Hadoop",Data Analysis Project,80,"Graphic Designer at GHI, Web Developer at DEF, Data Analyst at ABC",2 Weeks
+F175,"Big Data, TensorFlow, SEO, UI/UX Design",Dashboard Creation,41,"Web Developer at DEF, Graphic Designer at GHI",3 Weeks
+F176,"Data Science, Machine Learning, Hadoop, Bootstrap",Branding Strategy,23,UI/UX Designer at VWX,2 Months
+F177,"UI/UX Design, Blockchain, SQL, NoSQL, Kotlin","E-commerce Platform, API Development",53,"Cloud Engineer at MNO, SEO Specialist at JKL",2 Months
+F178,"TensorFlow, Docker, PHP","Portfolio Website, Website Development, Cybersecurity Audit",50,"Full Stack Developer at YZA, Data Analyst at ABC, UI/UX Designer at VWX",2 Weeks
+F179,"UI/UX Design, Adobe Illustrator, Swift",Mobile App Development,32,SEO Specialist at JKL,1 Month
+F180,"SEO, Adobe Illustrator, AWS, Data Science",Cloud Migration Project,44,"Web Developer at DEF, DevOps Engineer at PQR, Software Engineer at XYZ",2 Weeks
+F181,"Tableau, Ruby, PyTorch, Node.js, Cloud Computing","E-commerce Platform, Data Analysis Project, Website Development",22,Data Analyst at ABC,1 Month
+F182,"Adobe Illustrator, Django, TensorFlow","E-commerce Platform, Portfolio Website",23,Graphic Designer at GHI,1 Month
+F183,"Data Science, Hadoop, Node.js","Logo Design, E-commerce Platform, Portfolio Website",61,"UI/UX Designer at VWX, Cloud Engineer at MNO, Machine Learning Engineer at STU",3 Months
+F184,"Cybersecurity, Kubernetes","Mobile App Development, Social Media Campaign",67,Graphic Designer at GHI,1 Month
+F185,"Cybersecurity, Kotlin, Figma, Swift",API Development,41,DevOps Engineer at PQR,3 Weeks
+F186,"React, Branding, PHP, Power BI",E-commerce Platform,35,"Web Developer at DEF, SEO Specialist at JKL",2 Months
+F187,"NoSQL, SQL, Ruby, Flask, Kubernetes","Cybersecurity Audit, Cloud Migration Project, Branding Strategy",80,"Graphic Designer at GHI, Web Developer at DEF, Data Analyst at ABC",2 Months
+F188,"Azure, Ruby, Graphic Design, Kubernetes, Java","Branding Strategy, Portfolio Website, Website Development",37,"Software Engineer at XYZ, DevOps Engineer at PQR, UI/UX Designer at VWX",1 Week
+F189,"Spark, Big Data, Tableau, Azure","Branding Strategy, Logo Design",90,"Full Stack Developer at YZA, Data Analyst at ABC, Machine Learning Engineer at STU",1 Week
+F190,"Tableau, PyTorch, Swift, Vue.js","Cybersecurity Audit, SEO Optimization",79,"UI/UX Designer at VWX, Cloud Engineer at MNO, SEO Specialist at JKL",2 Months
+F191,"TensorFlow, Data Science, Cybersecurity","Machine Learning Model Training, Branding Strategy, Blockchain Implementation",73,UI/UX Designer at VWX,3 Months
+F192,"Docker, Python, TensorFlow, Kubernetes","Data Analysis Project, Branding Strategy",74,"Full Stack Developer at YZA, Software Engineer at XYZ, DevOps Engineer at PQR",1 Month
+F193,"React, Hadoop, C++","Social Media Campaign, API Development, Data Analysis Project",62,"SEO Specialist at JKL, DevOps Engineer at PQR, Machine Learning Engineer at STU",3 Months
+F194,"Hadoop, Flask, Power BI, NoSQL","Social Media Campaign, Logo Design",68,"Web Developer at DEF, UI/UX Designer at VWX",1 Week
+F195,"Flask, UI/UX Design, Cloud Computing, C++","Logo Design, Blockchain Implementation, E-commerce Platform",45,"Cloud Engineer at MNO, Full Stack Developer at YZA, Data Analyst at ABC",1 Week
+F196,"Vue.js, Azure, Adobe Photoshop",API Development,84,"Software Engineer at XYZ, Data Analyst at ABC",2 Weeks
+F197,"SQL, Tailwind, Figma",Machine Learning Model Training,64,"Machine Learning Engineer at STU, DevOps Engineer at PQR, Web Developer at DEF",1 Month
+F198,"Cloud Computing, Django, Branding, UI/UX Design","API Development, Mobile App Development",96,"Web Developer at DEF, DevOps Engineer at PQR",2 Weeks
+F199,"SQL, C++, Adobe Illustrator, Kubernetes, PHP","Portfolio Website, Website Development",90,SEO Specialist at JKL,1 Week
+F200,"Flask, Spark, Kubernetes, Cloud Computing, Tailwind",API Development,33,"DevOps Engineer at PQR, UI/UX Designer at VWX",3 Months
