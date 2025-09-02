@@ -24,14 +24,14 @@ class JobDetails(BaseModel):
 @app.post("/recommend")
 def get_recommendations(job: JobDetails):
     try:
-        recommendations = recommender.recommend(
+        recommendations, checkpt = recommender.recommend(
             required_skills=job.skills,
             job_budget=job.budget,
             timeline=job.timeline,
             client_id=job.client_id
         )
 
-        if self.freelancers_df.empty:
+        if checkpt.empty:
             return {"message": "no data loaded"}
         
         if recommendations.empty:
@@ -44,6 +44,7 @@ def get_recommendations(job: JobDetails):
 @app.get("/")
 def read_root():
     return {"message": "Freelancer Recommendation API is running!"}
+
 
 
 
