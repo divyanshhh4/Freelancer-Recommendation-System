@@ -8,7 +8,7 @@ recommender = FreelancerRecommender()
 @app.on_event("startup")
 def startup_event():
     try:
-        freelancers_path = r"Datasets/synthetic_freelancers_dataset.csv"
+        freelancers_path = r"./Datasets/synthetic_freelancers_dataset.csv"
         interactions_path = r"./Datasets/interactions_data.csv"
         recommender.load_data(freelancers_path, interactions_path)
         recommender.preprocess()
@@ -41,4 +41,5 @@ def get_recommendations(job: JobDetails):
 @app.get("/")
 def read_root():
     return {"message": "Freelancer Recommendation API is running!"}
+
 
