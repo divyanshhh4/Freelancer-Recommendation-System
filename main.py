@@ -30,6 +30,9 @@ def get_recommendations(job: JobDetails):
             timeline=job.timeline,
             client_id=job.client_id
         )
+
+        if self.freelancers_df.empty:
+            return {"message": "no data loaded"}
         
         if recommendations.empty:
             return {"message": "No freelancers match your criteria."}
@@ -41,5 +44,6 @@ def get_recommendations(job: JobDetails):
 @app.get("/")
 def read_root():
     return {"message": "Freelancer Recommendation API is running!"}
+
 
 
